@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31" started-at="2020-04-24T09:28:00Z" finished-at="2020-04-24T09:28:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31" started-at="2020-04-24T09:28:00Z" finished-at="2020-04-24T09:28:00Z">
+      <class name="com.gitexam.demomercury">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.gitexam.demomercury@6d00a15d]" name="OpenBrowser" is-config="true" duration-ms="16" started-at="2020-04-24T14:58:00Z" finished-at="2020-04-24T14:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:com.gitexam.demomercury@6d00a15d]" name="enterUrl" is-config="true" duration-ms="0" started-at="2020-04-24T14:58:00Z" finished-at="2020-04-24T14:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+        <test-method status="PASS" signature="maximizePage()[pri:0, instance:com.gitexam.demomercury@6d00a15d]" name="maximizePage" is-config="true" duration-ms="0" started-at="2020-04-24T14:58:00Z" finished-at="2020-04-24T14:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizePage -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:com.gitexam.demomercury@6d00a15d]" name="getCookies" is-config="true" duration-ms="0" started-at="2020-04-24T14:58:00Z" finished-at="2020-04-24T14:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.gitexam.demomercury@6d00a15d]" name="loginTest" duration-ms="0" started-at="2020-04-24T14:58:00Z" finished-at="2020-04-24T14:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="deleteCookie()[pri:0, instance:com.gitexam.demomercury@6d00a15d]" name="deleteCookie" is-config="true" duration-ms="0" started-at="2020-04-24T14:58:00Z" finished-at="2020-04-24T14:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookie -->
+        <test-method status="PASS" signature="dbClose()[pri:0, instance:com.gitexam.demomercury@6d00a15d]" name="dbClose" is-config="true" duration-ms="0" started-at="2020-04-24T14:58:00Z" finished-at="2020-04-24T14:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbClose -->
+        <test-method status="PASS" signature="captureScreenshort()[pri:0, instance:com.gitexam.demomercury@6d00a15d]" name="captureScreenshort" is-config="true" duration-ms="0" started-at="2020-04-24T14:58:00Z" finished-at="2020-04-24T14:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshort -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.gitexam.demomercury@6d00a15d]" name="closeWindow" is-config="true" duration-ms="0" started-at="2020-04-24T14:58:00Z" finished-at="2020-04-24T14:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- com.gitexam.demomercury -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
