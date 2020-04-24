@@ -51,6 +51,7 @@ public class demomercury
 	  public void OpenBrowser() 
 	  {
 		  System.out.println("Open Browser");
+		  System.out.println("operation is succesfully done");
 	  }
 
 	  @AfterSuite
